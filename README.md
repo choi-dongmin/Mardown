@@ -12,7 +12,6 @@
 3. Descriptive markup(설명 마크업)
 
 ## Markdown
----
 - HTML, XML 과 같이 Markup 언어의 일종.
 
 ### 마크다운 작성 방법 
